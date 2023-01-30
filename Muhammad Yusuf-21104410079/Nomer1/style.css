@@ -1,0 +1,40 @@
+.head{
+    background-image: url(https://www.fajarpendidikan.co.id/wp-content/uploads/2021/10/buah-buahan.jpeg);
+    text-align: center;
+    color: rgb(46, 46, 111);
+    margin: auto;
+    
+}
+
+a:link{
+    color: rgb(144, 149, 231);
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(114, 114, 224);
+    text-decoration: none;
+}
+
+a:hover{
+    color: silver;
+    text-decoration: none;
+}   
+
+.parag{
+    color: blue;
+    text-align: center;
+}
+
+.par{
+    color: blue;
+    text-justify: auto;
+}
+
+.tabl{
+    border: 1px;
+}
+
+.list{
+    list-style: none;
+}
